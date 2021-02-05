@@ -16,7 +16,7 @@ Please note that inorder to run `task_stats` command, `configUSE_TRACE_FACILITY`
 
 1. Enable the demo by defining `CONFIG_CLI_UART_DEMO_ENABLED` flag in `aws_demo_config.h`.
 2. Set the network types `democonfigNETWORK_TYPES` to `AWSIOT_NETWORK_TYPE_NONE` in `aws_demo_config.h` for the board.
-3. Set the enabled network `configENABLED_NETWORKS` to `AWSIOT_NETWORK_TYPE_NONE` in `aws_iot_demo_network_config.h` for the board.
+3. Set the enabled network `configENABLED_NETWORKS` to `AWSIOT_NETWORK_TYPE_NONE` in `iot_demo_network.config.h` for the board.
 3. Build and flash the application onto the board.
 
 ### Example

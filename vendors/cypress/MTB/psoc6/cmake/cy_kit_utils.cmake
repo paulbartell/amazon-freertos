@@ -677,7 +677,7 @@ function(cy_kit_generate)
                 "${AFR_DEMOS_DIR}/demo_runner/aws_demo_version.c"
                 "${AFR_DEMOS_DIR}/demo_runner/iot_demo_freertos.c"
                 "${AFR_DEMOS_DIR}/demo_runner/iot_demo_runner.c"
-                "${AFR_DEMOS_DIR}/network_manager/aws_iot_demo_network.c"
+                "${AFR_DEMOS_DIR}/network_manager/iot_demo_network.c"
                 "${AFR_DEMOS_DIR}/network_manager/aws_iot_network_manager.c"
                 "${AFR_DEMOS_DIR}/ota/aws_iot_ota_update_demo.c"
             )

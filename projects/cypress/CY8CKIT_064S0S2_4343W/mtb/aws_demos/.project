@@ -828,7 +828,7 @@
  		<link>
 			<name>demos/network_manager/aws_iot_network_manager.c</name>
 			<type>1</type>
-			<locationURI>PARENT-5-PROJECT_LOC/demos/network_manager/aws_iot_demo_network.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/demos/network_manager/iot_demo_network.c</locationURI>
 		</link>
  		<link>
 			<name>demos/network_manager/aws_iot_network_manager.c</name>

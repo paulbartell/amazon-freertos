@@ -315,7 +315,7 @@
 		<ClCompile Include="..\..\..\..\..\demos\demo_runner\aws_demo_version.c"/>
 		<ClCompile Include="..\..\..\..\..\demos\demo_runner\aws_demo.c"/>
 		<ClCompile Include="..\..\..\..\..\demos\network_manager\aws_iot_network_manager.c"/>
-		<ClCompile Include="..\..\..\..\..\demos\network_manager\aws_iot_demo_network.c"/>
+		<ClCompile Include="..\..\..\..\..\demos\network_manager\iot_demo_network.c"/>
 		<ClCompile Include="..\..\..\..\..\demos\demo_runner\iot_demo_freertos.c"/>
 		<ClCompile Include="..\..\..\..\..\demos\demo_runner\iot_demo_runner.c"/>
 		<ClCompile Include="..\..\..\..\..\libraries\c_sdk\standard\common\iot_init.c"/>

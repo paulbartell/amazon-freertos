@@ -1020,7 +1020,7 @@
 		<ClCompile Include="..\..\..\..\..\demos\network_manager\aws_iot_network_manager.c">
 			<Filter>demos\network_manager</Filter>
 		</ClCompile>
-		<ClCompile Include="..\..\..\..\..\demos\network_manager\aws_iot_demo_network.c">
+		<ClCompile Include="..\..\..\..\..\demos\network_manager\iot_demo_network.c">
 			<Filter>demos\network_manager</Filter>
 		</ClCompile>
 		<ClCompile Include="..\..\..\..\..\demos\demo_runner\iot_demo_freertos.c">

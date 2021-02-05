@@ -24,7 +24,7 @@
  */
 
 /**
- * @file aws_iot_demo_network.c
+ * @file iot_demo_network.c
  * @brief Contains implementation for network creation and teardown functions for handling different types of network connections
  */
 

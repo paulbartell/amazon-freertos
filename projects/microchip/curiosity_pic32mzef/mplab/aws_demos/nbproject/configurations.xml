@@ -51,7 +51,7 @@
 			</logicalFolder>
 			<logicalFolder name="network_manager" displayName="network_manager" projectFiles="true">
 				<itemPath>../../../../../demos/network_manager/aws_iot_network_manager.c</itemPath>
-				<itemPath>../../../../../demos/network_manager/aws_iot_demo_network.c</itemPath>
+				<itemPath>../../../../../demos/network_manager/iot_demo_network.c</itemPath>
 				<itemPath>../../../../../demos/network_manager/iot_network_manager_private.h</itemPath>
 			</logicalFolder>
 			<logicalFolder name="include" displayName="include" projectFiles="true">

@@ -1964,7 +1964,7 @@
 				<name>$PROJ_DIR$\..\..\..\..\..\demos\network_manager\aws_iot_network_manager.c</name>
 			</file>
 			<file>
-				<name>$PROJ_DIR$\..\..\..\..\..\demos\network_manager\aws_iot_demo_network.c</name>
+				<name>$PROJ_DIR$\..\..\..\..\..\demos\network_manager\iot_demo_network.c</name>
 			</file>
 			<file>
 				<name>$PROJ_DIR$\..\..\..\..\..\demos\network_manager\iot_network_manager_private.h</name>
