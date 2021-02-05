@@ -213,9 +213,9 @@
 			<locationURI>AFR_ROOT/demos/include/aws_clientcredential_keys.h</locationURI>
 		</link>
 		<link>
-			<name>demos/include/aws_demo.h</name>
+			<name>demos/include/iot_demo.h</name>
 			<type>1</type>
-			<locationURI>AFR_ROOT/demos/include/aws_demo.h</locationURI>
+			<locationURI>AFR_ROOT/demos/include/iot_demo.h</locationURI>
 		</link>
 		<link>
 			<name>demos/include/aws_iot_demo_network.h</name>

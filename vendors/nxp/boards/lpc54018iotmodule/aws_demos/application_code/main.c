@@ -73,7 +73,7 @@
 #include "iot_logging_task.h"
 #include "iot_wifi.h"
 #include "iot_system_init.h"
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "aws_dev_mode_key_provisioning.h"
 
 #include "usb_device_config.h"

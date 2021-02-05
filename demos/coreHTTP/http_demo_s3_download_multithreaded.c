@@ -85,7 +85,7 @@
 #include "http_demo_s3_download_multithreaded_config.h"
 
 /* Include common demo header. */
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* Transport interface implementation include header for TLS. */
 #include "transport_secure_sockets.h"

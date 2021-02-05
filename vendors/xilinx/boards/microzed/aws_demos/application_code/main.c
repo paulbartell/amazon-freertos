@@ -36,7 +36,7 @@
 #include "FreeRTOS_DHCP.h"
 
 /* Demo includes */
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* AWS System includes. */
 #include "aws_application_version.h"
@@ -46,7 +46,7 @@
 
 /* Demo application includes. */
 #include "aws_demo_config.h"
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "iot_logging_task.h"
 
 /* Application version info. */

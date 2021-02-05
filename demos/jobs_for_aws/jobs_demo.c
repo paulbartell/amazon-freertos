@@ -69,7 +69,7 @@
 /* Demo Specific config file. */
 #include "jobs_demo_config.h"
 
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* Kernel includes. */
 #include "FreeRTOS.h"

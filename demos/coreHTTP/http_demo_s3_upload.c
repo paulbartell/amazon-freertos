@@ -67,7 +67,7 @@
 #include "http_demo_s3_upload_config.h"
 
 /* Include common demo header. */
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* Kernel includes. */
 #include "FreeRTOS.h"

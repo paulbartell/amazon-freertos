@@ -1578,8 +1578,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>../../../../../demos/include/aws_demo.h</PathWithFileName>
-      <FilenameWithoutPath>aws_demo.h</FilenameWithoutPath>
+      <PathWithFileName>../../../../../demos/include/iot_demo.h</PathWithFileName>
+      <FilenameWithoutPath>iot_demo.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

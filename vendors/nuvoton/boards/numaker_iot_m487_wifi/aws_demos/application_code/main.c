@@ -31,7 +31,7 @@
 #include "task.h"
 
 /* Demo includes */
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "types/iot_network_types.h"
 #include "aws_iot_network_config.h"
 

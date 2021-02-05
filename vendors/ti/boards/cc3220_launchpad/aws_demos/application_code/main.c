@@ -55,7 +55,7 @@
 #include "iot_wifi.h"
 
 /* Demo files. */
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "iot_logging_task.h"
 #include "iot_system_init.h"
 #include "aws_dev_mode_key_provisioning.h"

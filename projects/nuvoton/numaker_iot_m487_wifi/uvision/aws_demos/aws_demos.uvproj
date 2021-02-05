@@ -679,9 +679,9 @@
 							<FilePath>../../../../../demos/include/aws_clientcredential_keys.h</FilePath>
 						</File>
 						<File>
-							<FileName>aws_demo.h</FileName>
+							<FileName>iot_demo.h</FileName>
 							<FileType>5</FileType>
-							<FilePath>../../../../../demos/include/aws_demo.h</FilePath>
+							<FilePath>../../../../../demos/include/iot_demo.h</FilePath>
 						</File>
 						<File>
 							<FileName>aws_iot_demo_network.h</FileName>

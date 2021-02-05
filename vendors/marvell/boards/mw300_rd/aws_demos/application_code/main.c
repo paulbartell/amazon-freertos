@@ -40,7 +40,7 @@
 #include "wifi.h"
 
 /* AWS library includes. */
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "iot_system_init.h"
 #include "iot_logging_task.h"
 #include "iot_wifi.h"

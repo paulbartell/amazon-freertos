@@ -37,7 +37,7 @@
 #include "iot_demo_logging.h"
 #include "iot_network_manager_private.h"
 #include "platform/iot_threads.h"
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "iot_init.h"
 
 static IotNetworkManagerSubscription_t subscription = IOT_NETWORK_MANAGER_SUBSCRIPTION_INITIALIZER;

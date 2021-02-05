@@ -318,7 +318,7 @@
     <ClInclude Include="..\..\..\common\include\aws_application_version.h" />
     <ClInclude Include="..\..\..\common\include\aws_clientcredential.h" />
     <ClInclude Include="..\..\..\common\include\aws_clientcredential_keys.h" />
-    <ClInclude Include="..\..\..\common\include\aws_demo.h" />
+    <ClInclude Include="..\..\..\common\include\iot_demo.h" />
     <ClInclude Include="..\..\..\common\include\aws_demo_runner.h" />
     <ClInclude Include="..\..\..\common\include\aws_greengrass_discovery_demo.h" />
     <ClInclude Include="..\..\..\common\include\aws_hello_world.h" />

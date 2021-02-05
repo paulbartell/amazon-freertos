@@ -41,7 +41,7 @@
 
 /* Demo application includes. */
 #include "aws_demo_config.h"
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "iot_logging_task.h"
 #include "sys_module.h"
 

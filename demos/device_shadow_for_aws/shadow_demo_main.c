@@ -62,7 +62,7 @@
 /* Demo Specific configs. */
 #include "shadow_demo_config.h"
 
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* Kernel includes. */
 #include "FreeRTOS.h"

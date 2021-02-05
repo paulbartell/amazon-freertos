@@ -40,7 +40,7 @@
 #include "platform/iot_threads.h"
 #include "types/iot_network_types.h"
 
-#include "aws_demo.h"
+#include "iot_demo.h"
 #include "aws_demo_config.h"
 
 /* Forward declaration of demo entry function to be renamed from #define in

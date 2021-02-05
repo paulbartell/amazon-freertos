@@ -26,7 +26,7 @@
 #ifndef AWS_TCP_ECHO_CLIENT_SINGLE_TASKS_H
 #define AWS_TCP_ECHO_CLIENT_SINGLE_TASKS_H
 
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /*
  * Create the TCP echo client tasks.  This is the version where an echo request

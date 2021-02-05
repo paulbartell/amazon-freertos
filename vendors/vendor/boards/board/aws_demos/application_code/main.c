@@ -29,7 +29,7 @@
 #include "FreeRTOS_IP.h" /* FIX ME: Delete if you are not using the FreeRTOS-Plus-TCP library. */
 
 /* Demo includes */
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* AWS library includes. */
 #include "iot_system_init.h"

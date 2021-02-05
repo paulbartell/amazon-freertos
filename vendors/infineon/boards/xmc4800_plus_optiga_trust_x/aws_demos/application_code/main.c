@@ -32,7 +32,7 @@
 #include "task.h"
 
 /* Demo includes */
-#include "aws_demo.h"
+#include "iot_demo.h"
 
 /* AWS library includes. */
 #include "iot_system_init.h"
