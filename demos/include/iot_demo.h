@@ -23,8 +23,8 @@
  * http://www.FreeRTOS.org
  */
 
-#ifndef _AWS_DEMO_H_
-#define _AWS_DEMO_H_
+#ifndef _IOT_DEMO_H_
+#define _IOT_DEMO_H_
 
 #include "platform/iot_network.h"
 #include "platform/iot_threads.h"
