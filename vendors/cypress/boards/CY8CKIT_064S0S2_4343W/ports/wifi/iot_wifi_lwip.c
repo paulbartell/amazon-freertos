@@ -35,7 +35,7 @@
 #include <iot_wifi_common.h>
 
 /* Wi-Fi configuration includes. */
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 
 /* Board and Abstraction layer includes */
 #include <cy_result.h>

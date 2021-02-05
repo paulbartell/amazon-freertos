@@ -48,7 +48,7 @@
 // Internal data structures
 //
 
-// For each project, wificonfigMAX_SCAN_RESULTS should be defined in aws_wifi_config.h
+// For each project, wificonfigMAX_SCAN_RESULTS should be defined in iot_wifi_config.h
 #ifndef wificonfigMAX_SCAN_RESULTS
 #define wificonfigMAX_SCAN_RESULTS  (20)
 #endif

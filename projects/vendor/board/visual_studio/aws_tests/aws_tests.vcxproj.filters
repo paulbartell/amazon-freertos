@@ -546,7 +546,7 @@
     <ClInclude Include="..\..\..\common\include\aws_clientcredential_keys.h">
       <Filter>application_code\common_tests\include</Filter>
     </ClInclude>
-    <ClInclude Include="..\common\config_files\aws_wifi_config.h">
+    <ClInclude Include="..\common\config_files\iot_wifi_config.h">
       <Filter>config_files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\lib\FreeRTOS\portable\Compiler\Arch\portmacro.h">

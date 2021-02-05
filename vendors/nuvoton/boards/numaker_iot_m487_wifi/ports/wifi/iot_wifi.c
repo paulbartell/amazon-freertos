@@ -37,7 +37,7 @@
 #include "iot_wifi.h"
 
 /* Wi-Fi configuration includes. */
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 
 /* Wi-Fi driver includes. */
 #include "esp8266_wifi.h"

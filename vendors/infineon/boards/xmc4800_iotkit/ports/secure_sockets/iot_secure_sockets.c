@@ -52,7 +52,7 @@
 #include "esp/esp_netconn.h"
 
 /* WiFi configuration includes. */
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 
 #undef _SECURE_SOCKETS_WRAPPER_NOT_REDEFINE
 

@@ -1882,7 +1882,7 @@
 								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_demos\config_files\aws_shadow_config.h</name>
 							</file>
 							<file>
-								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_demos\config_files\aws_wifi_config.h</name>
+								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_demos\config_files\iot_wifi_config.h</name>
 							</file>
 							<file>
 								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_demos\config_files\core_http_config.h</name>

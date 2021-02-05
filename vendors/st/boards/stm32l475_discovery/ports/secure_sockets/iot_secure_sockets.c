@@ -50,7 +50,7 @@
 #include "iot_wifi.h"
 
 /* WiFi configuration includes. */
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 
 /* Credentials includes. */
 #include "aws_clientcredential.h"

@@ -8,7 +8,7 @@ The Wi-Fi interface API provides a common abstraction layer that enables applica
 @config_page{SecureSockets}
 @config_brief{Wifi library}
 
-@brief The Wi-Fi Management library does not have a configuration file provided, but the following identifiers must be \c \#define'd in any application using the Wi-Fi Management library.  Example values for these identifiers can be found in aws_wifi_config.h from the AWS FreeRTOS demo for the specific board being used.
+@brief The Wi-Fi Management library does not have a configuration file provided, but the following identifiers must be \c \#define'd in any application using the Wi-Fi Management library.  Example values for these identifiers can be found in iot_wifi_config.h from the AWS FreeRTOS demo for the specific board being used.
 
 Note that some of these identifiers are only utilized by certain ports of the Wi-Fi library and may not have an effect on all boards.
 

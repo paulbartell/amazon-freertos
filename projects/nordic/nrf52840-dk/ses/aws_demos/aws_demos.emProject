@@ -95,7 +95,7 @@
       <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/aws_pkcs11_config.h" />
       <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/aws_secure_sockets_config.h" />
       <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/aws_shadow_config.h" />
-      <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/aws_wifi_config.h" />
+      <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/iot_wifi_config.h" />
       <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/FreeRTOSConfig.h" />
       <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/FreeRTOSIPConfig.h" />
       <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_demos/config_files/sdk_config.h" />

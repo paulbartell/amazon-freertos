@@ -221,7 +221,7 @@
     <ClInclude Include="..\common\config_files\aws_shadow_config.h" />
     <ClInclude Include="..\common\config_files\aws_test_ota_config.h" />
     <ClInclude Include="..\common\config_files\aws_test_wifi_config.h" />
-    <ClInclude Include="..\common\config_files\aws_wifi_config.h" />
+    <ClInclude Include="..\common\config_files\iot_wifi_config.h" />
     <ClInclude Include="..\common\config_files\FreeRTOSConfig.h" />
     <ClInclude Include="..\common\config_files\FreeRTOSIPConfig.h" />
     <ClInclude Include="..\common\config_files\unity_config.h" />

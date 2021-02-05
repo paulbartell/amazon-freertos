@@ -33,7 +33,7 @@
 #define _AWS_WIFI_HAL_H_
 
 #include <FreeRTOS.h>
-#include <aws_wifi_config.h>
+#include <iot_wifi_config.h>
 #include "iot_wifi.h"
 
 /**

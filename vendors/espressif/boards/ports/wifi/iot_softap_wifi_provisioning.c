@@ -3,7 +3,7 @@
 
 #include "iot_wifi.h"
 #include "iot_softap_wifi_provisioning.h"
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 #include "stdbool.h"
 
 #include <string.h>

@@ -45,7 +45,7 @@
 #include "iot_wifi.h"
 
 /* Wi-Fi config includes. */
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 
 /* Secure sockets includes. */
 #include "iot_secure_sockets.h"

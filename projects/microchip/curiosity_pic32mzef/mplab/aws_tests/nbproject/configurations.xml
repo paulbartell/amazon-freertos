@@ -878,7 +878,7 @@
 								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/aws_test_runner_config.h</itemPath>
 								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/aws_test_tcp_config.h</itemPath>
 								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/aws_test_wifi_config.h</itemPath>
-								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/aws_wifi_config.h</itemPath>
+								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/iot_wifi_config.h</itemPath>
 								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/core_http_config.h</itemPath>
 								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/core_mqtt_config.h</itemPath>
 								<itemPath>../../../../../vendors/microchip/boards/curiosity_pic32mzef/aws_tests/config_files/core_pkcs11_config.h</itemPath>

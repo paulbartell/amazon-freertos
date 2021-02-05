@@ -1844,9 +1844,9 @@
 							<FilePath>../../../../../vendors/nuvoton/boards/numaker_iot_m487_wifi/aws_demos/config_files/aws_shadow_config.h</FilePath>
 						</File>
 						<File>
-							<FileName>aws_wifi_config.h</FileName>
+							<FileName>iot_wifi_config.h</FileName>
 							<FileType>5</FileType>
-							<FilePath>../../../../../vendors/nuvoton/boards/numaker_iot_m487_wifi/aws_demos/config_files/aws_wifi_config.h</FilePath>
+							<FilePath>../../../../../vendors/nuvoton/boards/numaker_iot_m487_wifi/aws_demos/config_files/iot_wifi_config.h</FilePath>
 						</File>
 						<File>
 							<FileName>core_http_config.h</FileName>

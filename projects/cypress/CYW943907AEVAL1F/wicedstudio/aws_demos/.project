@@ -817,9 +817,9 @@
 			<locationURI>BASE_DIR/vendors/cypress/boards/CYW943907AEVAL1F/aws_demos/config_files/aws_shadow_config.h</locationURI>
 		</link>
 		<link>
-			<name>config_files/aws_wifi_config.h</name>
+			<name>config_files/iot_wifi_config.h</name>
 			<type>1</type>
-			<locationURI>BASE_DIR/vendors/cypress/boards/CYW943907AEVAL1F/aws_demos/config_files/aws_wifi_config.h</locationURI>
+			<locationURI>BASE_DIR/vendors/cypress/boards/CYW943907AEVAL1F/aws_demos/config_files/iot_wifi_config.h</locationURI>
 		</link>
 		<link>
 			<name>config_files/iot_config.h</name>

@@ -25,12 +25,12 @@
 
 
 /**
- * @file aws_wifi_config.h
+ * @file iot_wifi_config.h
  * @brief WiFi module configuration parameters.
  */
 
-#ifndef _AWS_WIFI_CONFIG_H_
-#define _AWS_WIFI_CONFIG_H_
+#ifndef _IOT_WIFI_CONFIG_H_
+#define _IOT_WIFI_CONFIG_H_
 
 /**
  * @brief Max SSID length
@@ -95,4 +95,4 @@
  */
 #define wificonfigACCESS_POINT_SECURITY         ( eWiFiSecurityWPA2 )
 
-#endif /* _AWS_WIFI_CONFIG_H_ */
+#endif /* _IOT_WIFI_CONFIG_H_ */

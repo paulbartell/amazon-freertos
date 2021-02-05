@@ -24,12 +24,12 @@
  */
 
 /**
- * @file aws_wifi_config.h
+ * @file iot_wifi_config.h
  * @brief WiFi module configuration parameters.
  */
 
-#ifndef _AWS_WIFI_CONFIG_H_
-#define _AWS_WIFI_CONFIG_H_
+#ifndef _IOT_WIFI_CONFIG_H_
+#define _IOT_WIFI_CONFIG_H_
 
 /**
  * @brief Max SSID length
@@ -93,4 +93,4 @@
 
 /* Timeout for all of the tasks to finish the test. */
 #define testwifiMULTITASK_TEST_TIMEOUT pdMS_TO_TICKS( 150000 )
-#endif /* ifndef _AWS_WIFI_CONFIG_H_ */
+#endif /* ifndef _IOT_WIFI_CONFIG_H_ */

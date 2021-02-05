@@ -44,7 +44,7 @@
 #include "iot_wifi.h"
 
 /* Wi-Fi configuration includes. */
-#include "aws_wifi_config.h"
+#include "iot_wifi_config.h"
 
 /* CY includes */
 #include "wiced.h"

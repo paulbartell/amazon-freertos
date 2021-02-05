@@ -25,7 +25,7 @@
 
 
 /**
- * @file aws_wifi_config.h
+ * @file iot_wifi_config.h
  * @brief WiFi configuration options.
  */
 

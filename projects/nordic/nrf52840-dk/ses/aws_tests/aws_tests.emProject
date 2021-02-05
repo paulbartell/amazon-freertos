@@ -56,7 +56,7 @@
         <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/aws_shadow_config.h" />
         <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/aws_test_ota_config.h" />
         <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/aws_test_runner_config.h" />
-        <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/aws_wifi_config.h" />
+        <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/iot_wifi_config.h" />
         <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/FreeRTOSConfig.h" />
         <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/FreeRTOSIPConfig.h" />
         <file file_name="../../../../../vendors/nordic/boards/nrf52840-dk/aws_tests/config_files/iot_ble_config.h" />
