@@ -45,7 +45,7 @@
 #include "aws_test_tcp.h"
 
 /* Update this file with port-specific values. */
-#include "aws_test_tcp_config.h"
+#include "iot_test_tcp_config.h"
 
 /* Update this file with AWS Credentials. */
 #include "aws_clientcredential.h"
@@ -107,7 +107,7 @@ volatile BaseType_t xSocketOpen = pdFALSE;
  */
 static void prvEchoClientTxTask( void * pvParameters );
 
-/* TCP Echo Client tasks multi-task test parameters. These can be configured in aws_test_tcp_config.h. */
+/* TCP Echo Client tasks multi-task test parameters. These can be configured in iot_test_tcp_config.h. */
 #ifndef tcptestTCP_ECHO_TASKS_STACK_SIZE
     #define tcptestTCP_ECHO_TASKS_STACK_SIZE    ( configMINIMAL_STACK_SIZE * 4 )
 #endif

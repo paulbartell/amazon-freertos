@@ -1328,7 +1328,7 @@
 								<name>$PROJ_DIR$\..\..\..\..\..\vendors\ti\boards\cc3220_launchpad\aws_tests\config_files\aws_test_runner_config.h</name>
 							</file>
 							<file>
-								<name>$PROJ_DIR$\..\..\..\..\..\vendors\ti\boards\cc3220_launchpad\aws_tests\config_files\aws_test_tcp_config.h</name>
+								<name>$PROJ_DIR$\..\..\..\..\..\vendors\ti\boards\cc3220_launchpad\aws_tests\config_files\iot_test_tcp_config.h</name>
 							</file>
 							<file>
 								<name>$PROJ_DIR$\..\..\..\..\..\vendors\ti\boards\cc3220_launchpad\aws_tests\config_files\aws_test_wifi_config.h</name>

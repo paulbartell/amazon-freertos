@@ -1463,9 +1463,9 @@
 			<locationURI>BASE_DIR_ROOT/vendors/ti/boards/cc3220_launchpad/aws_tests/config_files/aws_test_runner_config.h</locationURI>
 		</link>
 		<link>
-			<name>config_files/aws_test_tcp_config.h</name>
+			<name>config_files/iot_test_tcp_config.h</name>
 			<type>1</type>
-			<locationURI>BASE_DIR_ROOT/vendors/ti/boards/cc3220_launchpad/aws_tests/config_files/aws_test_tcp_config.h</locationURI>
+			<locationURI>BASE_DIR_ROOT/vendors/ti/boards/cc3220_launchpad/aws_tests/config_files/iot_test_tcp_config.h</locationURI>
 		</link>
 		<link>
 			<name>config_files/aws_test_wifi_config.h</name>

@@ -1885,7 +1885,7 @@
 								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_tests\config_files\aws_test_runner_config.h</name>
 							</file>
 							<file>
-								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_tests\config_files\aws_test_tcp_config.h</name>
+								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_tests\config_files\iot_test_tcp_config.h</name>
 							</file>
 							<file>
 								<name>$PROJ_DIR$\..\..\..\..\..\vendors\nxp\boards\lpc54018iotmodule\aws_tests\config_files\aws_test_wifi_config.h</name>
