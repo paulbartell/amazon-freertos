@@ -1127,9 +1127,9 @@
 			<locationURI>AWS_IOT_MCU_ROOT/demos/include/iot_demo.h</locationURI>
 		</link>
 		<link>
-			<name>demos/include/aws_iot_demo_network.h</name>
+			<name>demos/include/iot_demo_network.h</name>
 			<type>1</type>
-			<locationURI>AWS_IOT_MCU_ROOT/demos/include/aws_iot_demo_network.h</locationURI>
+			<locationURI>AWS_IOT_MCU_ROOT/demos/include/iot_demo_network.h</locationURI>
 		</link>
 		<link>
 			<name>demos/include/aws_ota_codesigner_certificate.h</name>

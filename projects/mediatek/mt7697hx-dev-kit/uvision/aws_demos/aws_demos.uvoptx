@@ -1590,8 +1590,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>../../../../../demos/include/aws_iot_demo_network.h</PathWithFileName>
-      <FilenameWithoutPath>aws_iot_demo_network.h</FilenameWithoutPath>
+      <PathWithFileName>../../../../../demos/include/iot_demo_network.h</PathWithFileName>
+      <FilenameWithoutPath>iot_demo_network.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

@@ -234,7 +234,7 @@
 		<ClInclude Include="..\..\..\..\..\demos\include\iot_demo.h">
 			<Filter>demos\include</Filter>
 		</ClInclude>
-		<ClInclude Include="..\..\..\..\..\demos\include\aws_iot_demo_network.h">
+		<ClInclude Include="..\..\..\..\..\demos\include\iot_demo_network.h">
 			<Filter>demos\include</Filter>
 		</ClInclude>
 		<ClInclude Include="..\..\..\..\..\demos\include\aws_ota_codesigner_certificate.h">

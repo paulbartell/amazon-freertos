@@ -36,7 +36,7 @@
           <file file_name="../../../../../demos/include/aws_clientcredential.h" />
           <file file_name="../../../../../demos/include/aws_clientcredential_keys.h" />
           <file file_name="../../../../../demos/include/iot_demo.h" />
-          <file file_name="../../../../../demos/include/aws_iot_demo_network.h" />
+          <file file_name="../../../../../demos/include/iot_demo_network.h" />
           <file file_name="../../../../../demos/include/aws_ota_codesigner_certificate.h" />
           <file file_name="../../../../../demos/include/aws_wifi_connect_task.h" />
           <file file_name="../../../../../demos/include/iot_ble_numericComparison.h" />

@@ -34,7 +34,7 @@
     #include "iot_demo_logging.h"
     #include "iot_network_manager_private.h"
 
-    #include "aws_iot_demo_network.h"
+    #include "iot_demo_network.h"
     #include "private/iot_error.h"
 
     #if TCPIP_NETWORK_ENABLED
