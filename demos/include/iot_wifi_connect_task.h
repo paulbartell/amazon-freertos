@@ -28,8 +28,8 @@
  * @brief Header file containing the WIFI auto connect task initialize and destroy APIs.
  */
 
-#ifndef _AWS_WIFI_CONNECT_TASK_H_
-#define _AWS_WIFI_CONNECT_TASK_H_
+#ifndef _IOT_WIFI_CONNECT_TASK_H_
+#define _IOT_WIFI_CONNECT_TASK_H_
 
 #include "FreeRTOS.h"
 
@@ -47,4 +47,4 @@ BaseType_t xWiFiConnectTaskInitialize( void );
 void vWiFiConnectTaskDestroy( void );
 
 
-#endif /* _AWS_WIFI_CONNECT_TASK_H_ */
+#endif /* _IOT_WIFI_CONNECT_TASK_H_ */
