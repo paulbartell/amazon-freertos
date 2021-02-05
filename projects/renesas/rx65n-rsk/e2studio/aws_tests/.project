@@ -2292,9 +2292,9 @@
 			<locationURI>AWS_IOT_MCU_ROOT/vendors/renesas/boards/rx65n-rsk/aws_tests/config_files/aws_test_tcp_config.h</locationURI>
 		</link>
 		<link>
-			<name>config_files/aws_test_wifi_config.h</name>
+			<name>config_files/iot_test_wifi_config.h</name>
 			<type>1</type>
-			<locationURI>AWS_IOT_MCU_ROOT/vendors/renesas/boards/rx65n-rsk/aws_tests/config_files/aws_test_wifi_config.h</locationURI>
+			<locationURI>AWS_IOT_MCU_ROOT/vendors/renesas/boards/rx65n-rsk/aws_tests/config_files/iot_test_wifi_config.h</locationURI>
 		</link>
 		<link>
 			<name>config_files/aws_wifi_config.h</name>

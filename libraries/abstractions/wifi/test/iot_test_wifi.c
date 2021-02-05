@@ -46,7 +46,7 @@
 #include "aws_test_tcp.h"
 #include "aws_test_utils.h"
 #include "iot_test_wifi.h"
-#include "aws_test_wifi_config.h"
+#include "iot_test_wifi_config.h"
 
 /* Testing configurations defintions. */
 
@@ -59,13 +59,13 @@
 #define testwifiCONNECTION_LOOP_TIMES     3
 
 /* The delay in ms between connection and disconnection. This can be configured
- * in aws_test_wifi_config.h for your specific platform. */
+ * in iot_test_wifi_config.h for your specific platform. */
 #ifndef testwifiCONNECTION_DELAY
     #define testwifiCONNECTION_DELAY    pdMS_TO_TICKS( 2000 )
 #endif
 
 /* The maximum number of networks that can be scanned. For your specific
- * platform, this can be configured in aws_test_wifi_config.h. */
+ * platform, this can be configured in iot_test_wifi_config.h. */
 #ifndef testwifiMAX_SCAN_NUMBER
     #define testwifiMAX_SCAN_NUMBER    10
 #endif
@@ -97,7 +97,7 @@
                         * valid AP configured in aws_clientcredentials.h. */
 
 /* 14 total channels in the 2.4 GHz band. Set to the number of channels
- * available in your region. This can be configured in aws_test_wifi_config.h.
+ * available in your region. This can be configured in iot_test_wifi_config.h.
  */
 #ifndef testwifiMAX_CHANNEL_NUMBER
     #define testwifiMAX_CHANNEL_NUMBER    14
@@ -108,7 +108,7 @@
 
 /* Arbitrary maximum number of networks to save for WIFI_NetworkGet(),
  * WIFI_NetworkSet() and WIFI_NetworkAdd() tests. This can be configured in
- * aws_test_wifi_config.h. */
+ * iot_test_wifi_config.h. */
 #ifndef testwifiMAX_NETWORK_SAVE_NUMBER
     #define testwifiMAX_NETWORK_SAVE_NUMBER    100
 #endif
@@ -125,7 +125,7 @@
 #define testwifiROUND_TRIP_TEST_RETRY_DELAY_MS            150
 
 /* Socket receive and send timeouts for the loopback test. These can be
- * configured in aws_test_wifi_config.h*/
+ * configured in iot_test_wifi_config.h*/
 #ifndef testwifiLOOPBACK_TEST_SOCKETS_RECEIVE_TIMEOUT
     #define testwifiLOOPBACK_TEST_SOCKETS_RECEIVE_TIMEOUT    10000
 #endif
@@ -143,7 +143,7 @@
 #define testwifiTASK_FINISH_MASK    ( ( 1 << testwifiNUM_TASKS ) - 1 )
 
 /* Task parameters for the Wi-Fi multi-task tests. These can be configured in
- * aws_test_wifi_config.h. */
+ * iot_test_wifi_config.h. */
 #ifndef testwifiTASK_STACK_SIZE
     #define testwifiTASK_STACK_SIZE    ( configMINIMAL_STACK_SIZE * 4 )
 #endif
@@ -152,13 +152,13 @@
 #endif
 
 /* Timeout for all of the tasks to finish the test. This can be configured in
- * aws_test_wifi_config.h. */
+ * iot_test_wifi_config.h. */
 #ifndef testwifiMULTITASK_TEST_TIMEOUT
     #define testwifiMULTITASK_TEST_TIMEOUT    pdMS_TO_TICKS( 120000 )
 #endif
 
 /* Timeout when one task waits for the other to synchronize with it. This can be
- * configured in aws_test_wifi_config.h. */
+ * configured in iot_test_wifi_config.h. */
 #ifndef testwifiTASK_SYNC_TIMEOUT
     #define testwifiTASK_SYNC_TIMEOUT    pdMS_TO_TICKS( 30000 )
 #endif

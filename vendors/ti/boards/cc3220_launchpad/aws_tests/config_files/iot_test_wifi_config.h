@@ -24,11 +24,11 @@
  */
 
 /**
- * @file aws_test_wifi_config.h
+ * @file iot_test_wifi_config.h
  * @brief Port-specific variables for Wi-Fi tests.
  */
-#ifndef _AWS_TEST_WIFI_CONFIG_H_
-#define _AWS_TEST_WIFI_CONFIG_H_
+#ifndef _IOT_TEST_WIFI_CONFIG_H_
+#define _IOT_TEST_WIFI_CONFIG_H_
 
 /**
  * @brief The task stack size used in all Wi-Fi multi-task tests.
@@ -45,4 +45,4 @@
  */
 #define testwifiMULTITASK_TEST_TIMEOUT      pdMS_TO_TICKS( 600000 )
 
-#endif /* _AWS_TEST_WIFI_CONFIG_H_ */
+#endif /* _IOT_TEST_WIFI_CONFIG_H_ */
