@@ -62,11 +62,11 @@
 
 #if ( IOT_BLE_ENABLE_WIFI_PROVISIONING == 1 )
     #include "iot_ble_wifi_provisioning.h"
-    #include "aws_wifi_connect_task.h"
+    #include "iot_wifi_connect_task.h"
 #endif
 #if ( IOT_WIFI_ENABLE_SOFTAP_PROVISIONING == 1 )
     #include "iot_softap_wifi_provisioning.h"
-    #include "aws_wifi_connect_task.h"
+    #include "iot_wifi_connect_task.h"
 #endif
 
 #define _NM_PARAMS( networkType, networkState )    ( ( ( uint32_t ) networkType ) << 16 | ( ( uint16_t ) networkState ) )

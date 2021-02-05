@@ -34,7 +34,7 @@
 #include "task.h"
 #include "semphr.h"
 #include "aws_demo_config.h"
-#include "aws_wifi_connect_task.h"
+#include "iot_wifi_connect_task.h"
 #include "iot_network_manager_private.h"
 
 #if IOT_WIFI_ENABLE_SOFTAP_PROVISIONING == 1
