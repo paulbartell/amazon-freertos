@@ -28,8 +28,8 @@
  * @brief Contains network creation and teardown functions for handling different types of network connections
  * for MQTT demos.
  */
-#ifndef AWS_IOT_DEMO_NETWORK_H_
-#define AWS_IOT_DEMO_NETWORK_H_
+#ifndef IOT_DEMO_NETWORK_H_
+#define IOT_DEMO_NETWORK_H_
 
 
 
@@ -70,4 +70,4 @@ BaseType_t xMqttDemoCreateNetworkConnection( MqttConnectionContext_t * pxNetwork
  */
 void vMqttDemoDeleteNetworkConnection( MqttConnectionContext_t * pxNetworkConnection );
 
-#endif /* AWS_IOT_DEMO_NETWORK_H_ */
+#endif /* IOT_DEMO_NETWORK_H_ */
